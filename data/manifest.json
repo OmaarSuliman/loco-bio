@@ -1,8 +1,9 @@
 {
-  "title": "Histology",
+  "title": "Biochemistry",
   "quizzes": [
-    {"title": "Histology of cartilage", "path": "data/001.json"},
-    {"title": "Histology of bone", "path": "data/002.json"},
-    {"title": "Histology of skeletal muscle", "path": "data/003.json"}
+    {"title": "", "path": "data/001.json"},
+    {"title": "", "path": "data/002.json"},
+    {"title": "", "path": "data/003.json"},
+    {"title": "", "path": "data/tut01.json"}
   ]
 }
