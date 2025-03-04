@@ -1,0 +1,80 @@
+{
+    "title": "TUT: The biochemistry of metabolic bone diseases",
+    "questions": [
+      {
+        "question": "1. Which vitamin is essential for calcium absorption from the intestinal tract?",
+        "options": ["Vitamin D", "Vitamin E", "Vitamin B12", "Vitamin B6"],
+        "correct": 0
+      },
+      {
+        "question": "2. Milk is a rich source of which two minerals?",
+        "options": [
+          "Calcium and phosphorus",
+          "Iron and copper",
+          "Sodium and chloride",
+          "Calcium and magnesium"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "3. All of these are trace minerals, except:",
+        "options": ["Molybdenum", "Fluorine", "Calcium", "Zinc"],
+        "correct": 2
+      },
+      {
+        "question": "4. Calcium is important for which of the following?",
+        "options": [
+          "Strong bones",
+          "Blood clotting",
+          "Normal nerve function",
+          "All of the above"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "5. The pH suitable for calcium absorption is near:",
+        "options": ["Acidity", "Alkalinity", "Neutral"],
+        "correct": 0
+      },
+      {
+        "question": "6. Which hormone removes calcium and phosphorus from bone and increases phosphorus excretion in urine?",
+        "options": [
+          "Thyroid hormone",
+          "Cortisone",
+          "Calcitonin",
+          "Parathyroid hormone"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "7. Normal blood calcium level is:",
+        "options": [
+          "4-5 mg/dL",
+          "9-15 mg/dL",
+          "9-11 mg/dL",
+          "5-11 mg/dL"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "8. In hypoproteinemia, total calcium is:",
+        "options": ["Increased", "Not changed", "Decreased"],
+        "correct": 2
+      },
+      {
+        "question": "9. Hypercalcemia occurs in the following except:",
+        "options": [
+          "Hyperparathyroidism",
+          "Prolonged immobilization",
+          "Hypervitaminosis D",
+          "Decreased vitamin D level"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "10. Which of the following are rich sources of calcium?",
+        "options": ["Milk", "Cheese", "Yogurt", "All of the above"],
+        "correct": 3
+      }
+    ]
+  }
