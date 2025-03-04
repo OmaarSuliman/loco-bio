@@ -1,59 +1,70 @@
 {
-    "title": "Structure of the Neuromuscular Junction (End Plate)",
+    "title": "Phospholipids & Cyclooxygenase",
     "questions": [
       {
-        "question": "1. In a skeletal muscle consisting of 1000 muscle fibres where every 10 fibers are innervated by a single neuron, how many motor units are in this muscle?",
-        "options": [
-          "1000",
-          "100",
-          "10",
-          "500"
-        ],
-        "correct": 1
+        "question": "1. Which of the following is a potent sleep-promoting substance?",
+        "options": ["PG12", "PGF2", "PGE2", "PGD2"],
+        "correct": 3
       },
       {
-        "question": "7. Which is the storage site for neurotransmitter before release?",
+        "question": "2. The function of PGE is:",
         "options": [
-          "Presynaptic cell terminal",
-          "Synaptic vesicles",
-          "Synaptic cleft",
-          "Post synaptic cell"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "8. At the NMJ:",
-        "options": [
-          "The muscle membrane possesses muscarinic receptors.",
-          "There's a one-to-one transmission of excitatory impulses from the motor neuron to the muscle fibres it innervates",
-          "The motor nerve endings secrete noradrenaline",
-          "The typical summed end plate potential is usually 10 times the potential necessary to trigger an action potential"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "True or false: The synaptic knob contains in its cytoplasm multiple synaptic vesicles which contain cholinesterase enzyme.",
-        "options": [
-          "True",
-          "False"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "True or false: The synaptic gutter contains multiple voltage-gated Ca+2 channels.",
-        "options": [
-          "True",
-          "False"
-        ],
-        "correct": 1
-      },
-      {
-        "question": "True or false: The synaptic cleft contains the acetylcholinesterase enzyme.",
-        "options": [
-          "True",
-          "False"
+          "maintain pain & fever",
+          "vasoconstriction",
+          "promote sleep",
+          "non of the above"
         ],
         "correct": 0
+      },
+      {
+        "question": "3. Lipoxygenase is the enzyme responsible for synthesis of:",
+        "options": ["PG", "prostacyclin", "thromboxane", "leukotrienes"],
+        "correct": 3
+      },
+      {
+        "question": "4. Prostanoids include:",
+        "options": ["PG", "prostacyclin", "thromboxane", "all of the above"],
+        "correct": 3
+      },
+      {
+        "question": "5. The type of PG that promote sleep is:",
+        "options": ["PGE", "PGF", "PGF", "PGD"],
+        "correct": 0
+      },
+      {
+        "question": "6. Aspirin is non selective inhibitor of:",
+        "options": [
+          "cyclooxygenase",
+          "lipoxygenase",
+          "thromboxane synthase",
+          "non"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "7. One of the following can act as anti-allergic and anti-inflammatory:",
+        "options": ["aspirin", "ketoprofen", "corticosteroids", "all of the above"],
+        "correct": 3
+      },
+      {
+        "question": "8. The best anti-inflammatory drug with less side effects is:",
+        "options": [
+          "anti-cox 1",
+          "anti-cox 2",
+          "non selective anti-cox",
+          "leukotriene receptors blocker"
+        ],
+        "correct": 1
+      },
+          {
+        "question": "9. All of the following mediators can cause vasodilatation except:",
+        "options": ["histamine", "PG", "NO", "reactive oxygen species"],
+        "correct": 3
+      },
+          {
+        "question": "10. All of the following are characters of COX except......",
+        "options": ["They act on A.A", "Has two subtypes", "Non-suicidal Enzyme", "Is a bis-dioxygenase"],
+        "correct": 2
       }
     ]
   }
