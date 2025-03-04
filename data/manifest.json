@@ -1,9 +1,9 @@
 {
   "title": "Biochemistry",
   "quizzes": [
-    {"title": "", "path": "data/001.json"},
-    {"title": "", "path": "data/002.json"},
-    {"title": "", "path": "data/003.json"},
-    {"title": "", "path": "data/tut01.json"}
+    {"title": "Phosopholipids, cycloxygenase", "path": "data/001.json"},
+    {"title": "Fibrous proteins in connective tissues", "path": "data/002.json"},
+    {"title": "The sources of energy for muscle contractions & creatine metabolism", "path": "data/003.json"},
+    {"title": "TUT: The biochemistry of metabolic bone diseases", "path": "data/tut01.json"}
   ]
 }
