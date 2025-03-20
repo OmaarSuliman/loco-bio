@@ -204,7 +204,7 @@ function showResult() {
       timestamp: new Date().toISOString()
     };
     // Store in localStorage with the quiz path as key
-    localStorage.setItem(`quiz_score_${quizPath}`, JSON.stringify(scoreData));
+    localStorage.setItem(`bio-quiz_score_${quizPath}`, JSON.stringify(scoreData));
   }
 
   // Define phrase arrays for different score ranges
