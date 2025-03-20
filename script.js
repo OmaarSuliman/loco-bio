@@ -170,7 +170,7 @@ function displayLastScore() {
   const currentQuizPath = getQueryParam('file');
   
   if (currentQuizPath) {
-    const scoreData = localStorage.getItem(`bio_quiz_score_${currentQuizPath}`);
+    const scoreData = localStorage.getItem(`quiz_score_${currentQuizPath}`);
     if (scoreData) {
       const score = JSON.parse(scoreData);
       lastScoreDiv.innerHTML = `<strong>Last Score:</strong> ${score.score}/${score.total} <br>
@@ -204,7 +204,7 @@ function showResult() {
       timestamp: new Date().toISOString()
     };
     // Store in localStorage with the quiz path as key
-    localStorage.setItem(`bio_quiz_score_${quizPath}`, JSON.stringify(scoreData));
+    localStorage.setItem(`quiz_score_${quizPath}`, JSON.stringify(scoreData));
   }
 
   // Define phrase arrays for different score ranges
